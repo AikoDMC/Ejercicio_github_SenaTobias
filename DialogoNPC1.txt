@@ -2,6 +2,6 @@ Que hay de nuevo viejo
 
 Escuche que hay monstruos cerca
 
-Pueden encargarte de ellos?
+Puedes encargarte de ellos?
 
 ["dialogoNPC-SI","dialogoNPC-NO"]
