@@ -3,3 +3,4 @@ Que hay de nuevo viejo
 Escuche que hay monstruos cerca
 
 Pueden encargarte de ellos?
+["dialogoNPC-NO"]
